@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  width: 1440px;
+  height: 1845px;
+}
+
+.nav {
+  display: flex;
+}
+
+.skilled-icon {
+  display: flex;
+}
+
+.skilled {
+  margin-top: 39px;
+  margin-left: 166px;
+}
+
+.button1-1 {
+  width: 1440px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-top: 14px;
+  margin-right: 20px;
+}
+
+.button1 {
+  margin-top: 24px;
+  margin-right: 166px;
+  width: 167px;
+  height: 56px;
+  flex-shrink: 0;
+  border-radius: 28px;
+  background: var(--13183F, #13183f);
+  color: var(--FFFFFF, #fff);
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px; /* 155.556% */
+}
+
+.main2 {
+  display: flex;
+}
+
+.text {
+  width: 457px;
+  height: 359px;
+  flex-shrink: 0;
+  margin-top: 100px;
+  margin-left: 166px;
+}
+
+.head1 {
+  color: var(--13183F, #13183f);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Plus Jakarta Sans;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.text1 {
+  color: var(--83869A, #83869a);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  margin-top: 30px;
+}
+
+.button2 {
+  width: 167px;
+  height: 63px;
+  flex-shrink: 0;
+  border-radius: 31.5px;
+  background: var(
+    --Gradient-1,
+    linear-gradient(180deg, #ff6f48 0%, #f02aa6 100%)
+  );
+  color: var(--FFFFFF, #fff);
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px; /* 155.556% */
+  margin-top: 50px;
+}
+
+.girl-photo {
+  width: 800px;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(C:\Users\ACER\Desktop\github\aplikacia\image\Mask.png);
+}
+
+.girl {
+  width: 349.474px;
+  height: 483px;
+  flex-shrink: 0;
+  background: url(<path-to-image>), lightgray 0px 0px / 100% 100% no-repeat;
+}
+
+.section-main {
+  width: 1440px;
+  height: 888px;
+  flex-shrink: 0;
+  margin-top: 150px;
+  display: flex;
+}
+
+.box {
+  width: 350px;
+  height: 322px;
+  flex-shrink: 0;
+}
+
+.box1 {
+  border-radius: 15px;
+  background: var(
+    --Gradient-1,
+    linear-gradient(180deg, #ff6f48 0%, #f02aa6 100%)
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-header1 {
+  width: 286px;
+  color: var(--FFFFFF, #fff);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Plus Jakarta Sans;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 40px;
+}
+
+
+  
