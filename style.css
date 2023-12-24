@@ -149,5 +149,30 @@
   line-height: 40px;
 }
 
+footer {
+  height: 120px;
+  background: #13183f;
+  position: relative;
+}
 
-  
+footer > img {
+  margin-top: 46px;
+  margin-left: 165px;
+}
+
+footer > button {
+  width: 167px;
+  height: 56px;
+  flex-shrink: 0;
+  border-radius: 28px;
+  background: linear-gradient(180deg, #4851ff -54.32%, #f02aa6 100%);
+  color: var(--FFFFFF, #fff);
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px; /* 155.556% */
+  top: 32px;
+  position: absolute;
+  right: 165px;
+}
